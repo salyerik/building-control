@@ -1,14 +1,11 @@
-# This is the home page of the corporate website
-[Link to page⬅️][link]
+# This is a home page of the corporative website
+
 ## I used here:
-* HTML (BEM, PUG)
-* CSS (SASS)
+* HTML
+* CSS
 * JavaScript:
 	* Animations
 	* Menu-burger
-* GULP
-* NPM
-* GIT
 
 [Link to page⬅️][link]
 
